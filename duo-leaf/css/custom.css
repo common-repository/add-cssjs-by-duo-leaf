@@ -1,0 +1,118 @@
+.voffset {
+    margin-top: 2px;
+}
+
+.voffset1 {
+    margin-top: 5px;
+}
+
+.voffset2 {
+    margin-top: 10px;
+}
+
+.voffset3 {
+    margin-top: 15px;
+}
+
+.voffset4 {
+    margin-top: 30px;
+}
+
+.voffset5 {
+    margin-top: 40px;
+}
+
+.voffset6 {
+    margin-top: 60px;
+}
+
+.voffset7 {
+    margin-top: 80px;
+}
+
+.voffset8 {
+    margin-top: 100px;
+}
+
+.voffset9 {
+    margin-top: 150px;
+}
+
+.fix-margin{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.home-plugin-panel{
+    margin: 5px 0 5px 0;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.09);
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #FFF ;
+    min-height: 300px; 
+    padding: 0 0 10px 0;
+}
+.home-plugin-panel-parent:nth-child(odd) {
+    clear: both;
+}
+.home-plugin-banner{
+    width:  100%;
+    height: 175px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #1FA67A;
+    position: relative;
+}
+.home-plugin-title, .home-plugin-title:hover{
+    font-size: 24px;
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+    padding: 8px 15px;
+    margin-bottom: 4px;
+    color: #fff !important;
+    background: rgba( 30, 30, 30, 0.9 ) !important;
+    text-shadow: 0 1px 3px rgba( 0, 0, 0, 0.4 ) !important;
+    -webkit-box-shadow: 0 0 30px rgba( 255, 255, 255, 0.1 ) !important;
+    -moz-box-shadow: 0 0 30px rgba( 255, 255, 255, 0.1 ) !important;
+    box-shadow: 0 0 30px rgba( 255, 255, 255, 0.1 ) !important;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none !important;
+}
+.home-plugin-text{
+    font-size: 14px;
+    padding: 10px;
+}
+
+.box {
+    width:200px;height:300px;
+    position:relative;
+    border:1px solid #BBB;
+    background:#eee;
+}
+.ribbon {
+    position: absolute;
+    right: 15px;
+    top: 6px;
+    z-index: 1;
+    overflow: hidden;
+    width: 75px; height: 75px; 
+    text-align: right;
+}
+.ribbon span {
+    font-size: 10px;
+    color: #fff; 
+    text-align: center;
+    font-weight: bold; line-height: 20px;
+    transform: rotate(45deg);
+    width: 100px; display: block;
+    background: #79A70A;
+    background: linear-gradient(#9BC90D 0%, #79A70A 100%);
+    box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 19px; right: -21px;
+}

@@ -1,0 +1,48 @@
+.bootstrap-iso .voffset {
+    margin-top: 2px;
+}
+
+.bootstrap-iso .voffset1 {
+    margin-top: 5px;
+}
+
+.bootstrap-iso .voffset2 {
+    margin-top: 10px;
+}
+
+.bootstrap-iso .voffset3 {
+    margin-top: 15px;
+}
+
+.bootstrap-iso .voffset4 {
+    margin-top: 30px;
+}
+
+.bootstrap-iso .voffset5 {
+    margin-top: 40px;
+}
+
+.bootstrap-iso .voffset6 {
+    margin-top: 60px;
+}
+
+.bootstrap-iso .voffset7 {
+    margin-top: 80px;
+}
+
+.bootstrap-iso .voffset8 {
+    margin-top: 100px;
+}
+
+.bootstrap-iso .voffset9 {
+    margin-top: 150px;
+}
+
+.bootstrap-iso .fix-margin{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.bootstrap-iso .modal{
+    top: 50px !important;
+}
